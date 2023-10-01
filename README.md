@@ -133,7 +133,7 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ![268232581-d306795e-1849-4a28-b815-b086ede8eabf](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/4cccd7c5-3c11-435c-86ef-333e905e97d9)
 
 
-## cost function using gradient graph:
+## cost function using gradient descent graph:
 
 ![268232608-a76d12a7-ba8f-45aa-8490-e9264c013503](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/4780f453-bf0e-4c7d-abf8-43d3a9685209)
 
