@@ -120,26 +120,33 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-profit predicted graph:
+
+## profit predicted graph:
+
 ![268232479-673c0ffa-ae7f-4702-8e11-78393b4d8a2d](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/ee51db96-9183-4060-aa41-32933e93998c)
 
-compute cost value:
+# compute cost value:
+
 ![268232556-fe50f74a-2f2c-456f-a2b8-44b58ca77e76](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/f6304ee3-e49d-4c01-a0c2-5710ca194d5e)
 
-h(x)value:
+# h(x)value:
 ![268232581-d306795e-1849-4a28-b815-b086ede8eabf](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/4cccd7c5-3c11-435c-86ef-333e905e97d9)
 
 
-cost function using gradient graph:
+## cost function using gradient graph:
+
 ![268232608-a76d12a7-ba8f-45aa-8490-e9264c013503](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/4780f453-bf0e-4c7d-abf8-43d3a9685209)
 
-profit prediction graph:
+## profit prediction graph:
+
 ![268232650-b9ca5e73-3d15-4d12-87b0-e830a3adc08f](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/d2db09ff-fed9-4853-b158-20610e5d9eac)
 
-profit for the population 35,000:
+# profit for the population 35,000:
+
 ![268232709-74ac0a17-259b-4ce6-9320-32c514484fcc](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/de1a1a26-22b0-4a64-b182-f280959572c7)
 
-profit for the population 70,000:
+# profit for the population 70,000:
+
 ![268232737-7b57e4cd-a671-49c9-9b52-ca83128eaf47](https://github.com/Yuva2005raj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343998/3e2fc000-65a1-4be7-9f81-238329e55fe7)
 
 
